@@ -47,7 +47,7 @@ function handleLoadMoreMessage() {
 .left-message-container {
     float: left; 
     width: 80%; 
-    padding-left: 15px; 
+    padding: 10px 0 10px 15px; 
     margin: 5px 0; 
     background: #F9F9F9; 
     border-radius: 5px;
@@ -57,7 +57,7 @@ function handleLoadMoreMessage() {
 .right-message-container {
     float: right; 
     width: 80%; 
-    padding-right: 15px; 
+    padding: 10px 15px 10px 0; 
     margin: 5px 0; 
     background: #F9F9F9; 
     border-radius: 5px;
